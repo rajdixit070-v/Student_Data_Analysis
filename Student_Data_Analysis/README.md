@@ -76,4 +76,4 @@ python main.py
 This project demonstrates how Python and the Pandas library can be used to load, clean, transform, filter, analyze, and export student data. It helps in understanding real-world data analysis techniques and improves practical knowledge of data processing using Python.
 
 ## Author
-Pradyumna Yadav
+Anuradha Rathour
